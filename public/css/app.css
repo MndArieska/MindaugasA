@@ -1,0 +1,136 @@
+.enter-book{
+	background-image: url('http://localhost/knygos/book.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	// border: 2px solid black;
+	height: 539px;
+	margin: 20px auto;
+	-webkit-box-shadow: 0px 2px 24px 25px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 24px 25px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 24px 25px rgba(0,0,0,0.75);
+}
+.enter-book h1 {
+    margin-top: 80px;
+    color: #3c3535;
+    font-size: 70px;
+    text-decoration: overline;
+    font-style: italic;
+}
+.enter-book a:hover{
+   text-decoration: none;
+}
+.enter-book a:focus{
+   text-decoration: none;
+}
+.enter-book h1:hover {
+   color: grey;
+}
+.black-line{
+	background-color: black;
+}
+.book-box{
+	margin-bottom: 30px;
+}
+.photo{
+	border:1px solid grey;
+	height: 250px;
+	margin-bottom: 5px;
+}
+.photo:hover{
+	-webkit-box-shadow: 0px 0px 11px 2px rgba(110,110,110,1);
+-moz-box-shadow: 0px 0px 11px 2px rgba(110,110,110,1);
+box-shadow: 0px 0px 11px 2px rgba(110,110,110,1);
+}
+.img-responsive{
+	height: 248px;
+	width: 100%;
+}
+.description{
+	height: 60px;
+	text-align: center;
+}
+.fa-book{
+	margin: 0px 40px;
+	color: #796464
+}
+.book-info ul li {
+    font-size: 11px;
+    text-align: right;
+    margin-top: 5px;
+    text-transform: uppercase;
+}
+body{
+	background-color: #d2d5d5;
+}
+h1{
+	text-align: center;
+	padding: 30px 0;
+	text-transform: capitalize;
+}
+p{
+	font-family: 'Architects Daughter', cursive;
+	font-size: 17px;
+    text-transform: capitalize;
+    color: #000000;
+}
+ul{
+	list-style-type: none;
+	padding: 0;
+}
+nav ul li{
+	text-align: center;
+	// margin-top: 15px;
+}
+nav ul li a{
+	font-size: 36px;
+	font-family: 'Lobster', cursive;
+	color: #e9e9e9;
+}
+nav ul li a:hover{
+	color: #7f7171;
+}
+header {
+    border-bottom: 1px dotted grey;
+    height: 88px;
+    padding-top: 10px;
+    background-color:#000000;
+}
+span{
+	color: #fff;
+	padding-top: 20px;
+	display: inline-block;
+}
+.bottom-line{
+	background-color: #000;
+	margin-top: 40px;
+	text-align: center;
+	height: 60px;
+}
+.two-windows{
+	height: 600px;
+	margin-top: 30px;
+}
+.two-windows p{
+	text-align: center;
+	font-size: 36px;
+}
+.two-windows h6{
+	line-height: 1.6em;
+}
+.igm-description{
+	width: 75%;
+	margin: 30px auto;
+	height: 500px;
+}
+.igm-description img{
+	width: 100%;
+	height: 500px;
+	border-radius: 4px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.auth-name ul li{
+	text-align: right;
+	margin-right: 69px;
+}
