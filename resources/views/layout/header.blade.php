@@ -25,7 +25,7 @@
 	<nav>
 		<ul>
 			<li>
-				<i class="fa fa-book fa-4x" aria-hidden="true"></i><a href="{{ url('/welcome') }}">KNYGOS TAU</a><i class="fa fa-book fa-4x" aria-hidden="true"></i>
+				<i class="fa fa-book fa-4x" aria-hidden="true"></i><a href="{{ url('home') }}">KNYGOS TAU</a><i class="fa fa-book fa-4x" aria-hidden="true"></i>
 			</li>
 		</ul>
 	</nav>
